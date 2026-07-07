@@ -11,25 +11,46 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
+<div align="center">
+<img align='center' src= "https://cdn3.f-cdn.com/files/download/97941784/programmin.jpg?image-optimizer=force&format=webply" width="70%">
+</div>
+
 # 🐐 Chao Sunly
 **`Software Engineer`** 
 
 ## About Me
-- I building secure, scalable, and highly efficient digital solutions.
-- Bachelor of Computer Science at the **Cambodia Academy of Digital Technology (CADT)**
-- Specializing in **Backend Infrastructure, Full-Stack Web Development**.
+
+<!-- About Me -->
+
+<p align = 'right'>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="20%">
+</p>
+
+<p align='left'>
+- I building secure, scalable, and highly efficient digital solutions. <br>
+- Bachelor of Computer Science at the <b>Cambodia Academy of Digital Technology (CADT).</b> <br>
+- Specializing in <b>Backend Infrastructure, Full-Stack Web Development.</b> <br>
+</p>
+
+<!-- About Me -->
 
 ## What I've been Working On
 *   **REXFORM Solutions**: Building a custom permissions and zero-knowledge proxy management system utilizing the **Ory open-source IAM ecosystem** (Kratos, Hydra, Keto, Oathkeeper) to ensure privacy by design.
 *   **Microservices & Multi-tenancy**: Designing secure identity platforms with organization-scoped multi-tenancy and complex multi-hop SSO integration.
 *   **Personal Portfolio**: Keeping my projects updated over at [smxxth-portfolio.vercel.app](https://smxxth-portfolio.vercel.app).
 
-## Skill stack
-<!-- Skill icons provided by skill-icons. Full icon list and names:
-     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,python,typescript,nodejs,nestjs,react,nextjs,flutter,laravel,figma&theme=light)](https://skillicons.dev)
+## Skills
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+<!-- Skill icons grouped by category -->
+
+### 🎨 Frontend Development & Frameworks
+[![Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,js,typescript,flutter&theme=light)](https://skillicons.dev)
+
+### ⚙️ Backend Development & Databases
+[![Backend Skills](https://skillicons.dev/icons?i=python,nodejs,nestjs,laravel,graphql,jest,postgres,mysql,postman&theme=light)](https://skillicons.dev)
+
+### 🛠️ DevOps & Tools
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,gmail,figma,md,vscode&theme=light)](https://skillicons.dev)
 
 
 ---
@@ -91,4 +112,6 @@ Credits and references used in this README:
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
-![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
+<p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+</p>
